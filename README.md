@@ -4,4 +4,4 @@ This project aims to develop and train a recurrent neural network (RNN) to class
 
 ## Files
 
-The nlp_disaster_tweets.ipynb file contains the explanations and code for the analysis and model developement and training.
+The nlp_disaster_tweets.ipynb file contains the explanations and code for the analysis and model development and training.
